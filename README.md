@@ -1,4 +1,4 @@
-# VTOP Captcha Auto Solver
+# VTOP Captcha Solver
 
 This userscript automatically solves the **text-based captchas** used on the [VIT VTOP portal](https://vtop.vit.ac.in/vtop/).
 
