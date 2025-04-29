@@ -4,7 +4,7 @@ This userscript automatically solves the **text-based captchas** used on the [VI
 
 VTOP uses **two types of captchas**:
 - **Text-based CAPTCHA** — solved by this userscript
-- **Google reCAPTCHA** — can be solved using the [Buster extension](#solving-google-captcha).
+- **Google reCAPTCHA** — can be solved using the [Buster extension](https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/).
 
 This script automatically detects, solves, and fills the text captcha field on the login page.
 
