@@ -25,7 +25,7 @@ Choose any one of the following:
 
 1. Install any one userscript manager from the above links.
 2. After installation, create a **new userscript** in the manager.
-3. Copy and paste the provided userscript code into it.
+3. Copy and paste the provided userscript code into it (code is in the .js file).
 4. Save it.
 5. Open [VTOP Login Page](https://vtop.vit.ac.in/vtop/).
 6. The captcha field will now **auto-solve** whenever the page loads!
