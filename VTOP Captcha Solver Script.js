@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         VTOP Captcha Auto Solver (Matching + Neural Network)
+// @name         VTOP Captcha Auto Solver
 // @namespace    Violentmonkey Scripts
 // @version      1.0
 // @description  Automatically solves VTOP captcha using bitmap match + neural net exactly like original script
