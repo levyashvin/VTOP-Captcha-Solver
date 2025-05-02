@@ -25,10 +25,8 @@ Choose any one of the following:
 
 1. Install any one userscript manager from the above links.
 2. After installation, create a **new userscript** in the manager.
-3. Copy and paste the provided [userscript](https://raw.githubusercontent.com/levyashvin/VTOP-Captcha-Solver/refs/heads/main/VTOP%20Captcha%20Solver%20Script.js) into it.
-4. Save it.
-5. Open [VTOP Login Page](https://vtop.vit.ac.in/vtop/).
-6. The captcha field will now **auto-solve** whenever the page loads.
+3. Copy and paste the provided [userscript](https://raw.githubusercontent.com/levyashvin/VTOP-Captcha-Solver/refs/heads/main/VTOP%20Captcha%20Solver%20Script.js) into it, save it and close.
+4. The captcha field will now **auto-solve** whenever the page loads.
 
 ---
 
